@@ -15,6 +15,7 @@
 ### 1. 概要
 
 - Project タイトル: dugsnotes-notepad-nodejs
+- 関連 URL : https://youtu.be/f2EqECiTBL8?si=hNV9tZ38f1wBWOSQ
 - 期間 : -
 - 人員 : 1 人
 - 技術スタック : </br>

@@ -15,6 +15,7 @@
 ### 1. 개요
 
 - 프로젝트명 : dugsnotes-notepad-nodejs
+- 관련URL : https://youtu.be/f2EqECiTBL8?si=hNV9tZ38f1wBWOSQ
 - 기간 : -
 - 인원 : 1인
 - 기술스택 : </br>

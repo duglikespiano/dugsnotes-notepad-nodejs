@@ -15,6 +15,7 @@
 ### 1. Overview
 
 - Project title : dugsnotes-notepad-nodejs
+- Related URL : https://youtu.be/f2EqECiTBL8?si=hNV9tZ38f1wBWOSQ
 - Period : -
 - Member(s) : Dug Park
 - Tech stack : </br>
