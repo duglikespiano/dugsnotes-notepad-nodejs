@@ -1,0 +1,2 @@
+This file has been created by node.js
+This line is appended after writing the file
