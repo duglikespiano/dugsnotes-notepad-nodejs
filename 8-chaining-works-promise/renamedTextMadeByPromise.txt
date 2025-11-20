@@ -1,0 +1,2 @@
+Hello world! from the new file
+This text is appeneded by node.js
