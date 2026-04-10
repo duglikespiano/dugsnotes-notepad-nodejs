@@ -5,7 +5,8 @@
 		"express": "^5.1.0",
 		"express-fileupload": "^1.5.2",
 		"jsonwebtoken": "^9.0.3",
-		"mongodb": "^7.1.0"
+		"mongodb": "^7.1.0",
+		"node-fetch": "^2.7.0"
 	},
 	"scripts": {
 		"start": "node 1-googlesheet/app.js"
