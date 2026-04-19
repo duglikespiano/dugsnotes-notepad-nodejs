@@ -7,9 +7,10 @@
 		"express-fileupload": "^1.5.2",
 		"jsonwebtoken": "^9.0.3",
 		"mongodb": "^7.1.0",
-		"node-fetch": "^2.7.0"
+		"node-fetch": "^2.7.0",
+		"sharp": "^0.34.5"
 	},
 	"scripts": {
-		"start": "node 1-googlesheet/app.js"
+		"start": ""
 	}
 }

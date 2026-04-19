@@ -1,4 +1,7 @@
 /node_modules
 .env
+.DS_Store
 CLASSIFIED.js
 */downloads
+39-image-compressor/src
+39-image-compressor/output
