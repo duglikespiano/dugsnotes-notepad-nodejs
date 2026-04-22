@@ -2,6 +2,7 @@
 .env
 .DS_Store
 CLASSIFIED.js
+CLASSIFIED.mjs
 */downloads
 39-image-compressor/src
 39-image-compressor/output
